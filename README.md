@@ -41,7 +41,7 @@ I mostly work with JavaScript, NodeJs and React.🚀
   
  <p float="left">
   <a href="https://www.mysql.com/" target="_blank" >
-    <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/MySQL.png" height="70" width="78" />&nbsp;&nbsp;
+    <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/MySQL.png" height="65" width="78" />&nbsp;&nbsp;
   </a>
    <a href="https://www.postgresql.org/" target="_blank" >
     <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/postgresql.gif" height="90" />&nbsp;&nbsp;
