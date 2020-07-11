@@ -8,6 +8,9 @@ I mostly work with JavaScript, NodeJs and React.🚀
   <a href="https://golang.org/" target="_blank" >
     <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/golang.gif"  height="90" />
   </a>
+  <a href="https://golang.org/" target="_blank" >
+    <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/golang.gif"  height="90" />
+  </a>
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/docker.gif"  height="80" /> 
   </a>
