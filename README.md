@@ -5,11 +5,14 @@ I am [Surendra](https://www.linkedin.com/in/sudosuperuser/), a passionate and cr
 I mostly work with JavaScript, NodeJs and React.🚀
 
 <p float="left">
-  <a href="https://golang.org/" target="_blank" >
+   <a href="https://golang.org/" target="_blank" >
     <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/golang.gif"  height="90" />
   </a>
-  <a href="https://golang.org/" target="_blank" >
-    <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/golang.gif"  height="90" />
+  <a href="https://reactjs.org" target="_blank" >
+    <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/React.png"  height="68" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank" >
+    <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/Nodejs.png"  height="70" />
   </a>
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/docker.gif"  height="80" /> 
@@ -19,7 +22,7 @@ I mostly work with JavaScript, NodeJs and React.🚀
     <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/cicd.gif"  height="65" />
   </a>
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
-    <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/html-css-js.png" height="70" />
+    <img src="https://clipart.info/images/ccovers/1499794874html5-js-css3-logo-png.png" height="70" />
   </a>
  </p>
   
@@ -37,7 +40,10 @@ I mostly work with JavaScript, NodeJs and React.🚀
 ### Databases
   
  <p float="left">
-  <a href="https://www.postgresql.org/" target="_blank" >
+  <a href="https://www.mysql.com/" target="_blank" >
+    <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/MySQL.png" height="65" width="78" />&nbsp;&nbsp;
+  </a>
+   <a href="https://www.postgresql.org/" target="_blank" >
     <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/postgresql.gif" height="90" />&nbsp;&nbsp;
   </a>
   <a href="https://www.mongodb.com/" target="_blank" >
