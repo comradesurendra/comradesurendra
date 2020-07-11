@@ -5,8 +5,11 @@ I am [Surendra](https://www.linkedin.com/in/sudosuperuser/), a passionate and cr
 I mostly work with JavaScript, NodeJs and React.🚀
 
 <p float="left">
-  <a href="https://golang.org/" target="_blank" >
-    <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/golang.gif"  height="90" />
+  <a href="https://reactjs.org" target="_blank" >
+    <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/React.png"  height="90" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank" >
+    <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/Nodejs.png"  height="90" />
   </a>
   <a href="https://golang.org/" target="_blank" >
     <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/golang.gif"  height="90" />
@@ -37,7 +40,10 @@ I mostly work with JavaScript, NodeJs and React.🚀
 ### Databases
   
  <p float="left">
-  <a href="https://www.postgresql.org/" target="_blank" >
+  <a href="https://www.mysql.com/" target="_blank" >
+    <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/MySQL.png" height="90" />&nbsp;&nbsp;
+  </a>
+   <a href="https://www.postgresql.org/" target="_blank" >
     <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/postgresql.gif" height="90" />&nbsp;&nbsp;
   </a>
   <a href="https://www.mongodb.com/" target="_blank" >
