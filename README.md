@@ -9,10 +9,10 @@ I mostly work with JavaScript, NodeJs and React.🚀
     <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/golang.gif"  height="90" />
   </a>
   <a href="https://reactjs.org" target="_blank" >
-    <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/React.png"  height="68" />
+    <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/React.gif"  height="90" />
   </a>
   <a href="https://nodejs.org/" target="_blank" >
-    <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/Nodejs.png"  height="70" />
+    <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/node.gif"  height="90" />
   </a>
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/docker.gif"  height="80" /> 
@@ -22,7 +22,7 @@ I mostly work with JavaScript, NodeJs and React.🚀
     <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/cicd.gif"  height="65" />
   </a>
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
-    <img src="https://clipart.info/images/ccovers/1499794874html5-js-css3-logo-png.png" height="70" />
+    <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/html.gif" height="90" />
   </a>
  </p>
   
@@ -41,7 +41,7 @@ I mostly work with JavaScript, NodeJs and React.🚀
   
  <p float="left">
   <a href="https://www.mysql.com/" target="_blank" >
-    <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/MySQL.png" height="65" width="78" />&nbsp;&nbsp;
+    <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/mysql.gif" height="65" width="90" />&nbsp;&nbsp;
   </a>
    <a href="https://www.postgresql.org/" target="_blank" >
     <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/postgresql.gif" height="90" />&nbsp;&nbsp;
