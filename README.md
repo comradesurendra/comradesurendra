@@ -47,7 +47,7 @@ I mostly work with JavaScript, NodeJs and React.🚀
     <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/postgresql.gif" height="90" />&nbsp;&nbsp;
   </a>
   <a href="https://www.mongodb.com/" target="_blank" >
-    <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/mongo.gif" height="80" />
+    <img src="https://doc.octoperf.com/monitoring/create-connection/mongodb/img/mongodb-logo.png" height="80" />
   </a>
 </p>
 
