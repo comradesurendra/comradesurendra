@@ -18,11 +18,11 @@ I mostly work with JavaScript, NodeJs and React.🚀
     <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/docker.gif"  height="80" /> 
   </a>
  
-  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/cicd.gif"  height="65" />
+  <a href="https://github.com/" target="_blank" >
+    <img src="https://clipart.info/images/ccovers/1499794873github-logo-png.png"  height="65" />
   </a>
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
-    <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/html.gif" height="90" />
+    <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/html.png" height="90" />
   </a>
  </p>
   
