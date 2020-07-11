@@ -22,7 +22,7 @@ I mostly work with JavaScript, NodeJs and React.🚀
     <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/cicd.gif"  height="65" />
   </a>
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
-    <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/html-css-js.png" height="70" />
+    <img src="https://clipart.info/images/ccovers/1499794874html5-js-css3-logo-png.png" height="70" />
   </a>
  </p>
   
