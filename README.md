@@ -4,7 +4,7 @@ I am [Surendra](https://www.linkedin.com/in/sudosuperuser/), a passionate and cr
 
 I mostly work with JavaScript, NodeJs and React.🚀
 
-### Language's , Tool's & Framework's
+### Languages , Tools & Frameworks
 <p float="left">
    <a href="https://golang.org/" target="_blank" >
     <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/golang.gif"  height="90" />
