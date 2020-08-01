@@ -61,6 +61,8 @@ I mostly work with JavaScript, NodeJs and React.🚀
   </a>
 </p>
 
+[![Surendra's github stats](https://github-readme-stats.vercel.app/api?username=comradesurendra)](https://github.com/comradesurendra/github-readme-stats)
+
 ### 📫 How to reach me? 
 
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/sudosuperuser/) 
