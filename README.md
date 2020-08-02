@@ -21,9 +21,6 @@ I mostly work with JavaScript, NodeJs and React.🚀
   <a href="https://getbootstrap.com/" target="_blank" >
     <img src="https://cdn-images-1.medium.com/max/2000/1*9HanDsRU11ZMsgDGJwN96w.png"  height="70" /> 
   </a>
-  <a href="https://github.com/" target="_blank" >
-    <img src="https://clipart.info/images/ccovers/1499794873github-logo-png.png"  height="55" />
-  </a>
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
     <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/html.png" height="80" />
   </a>
@@ -31,9 +28,6 @@ I mostly work with JavaScript, NodeJs and React.🚀
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/768px-Python.svg.png" height="70" />
   </a>
    </a>
-   <a href="https://spring.io/projects/spring-boot" target="_blank" >
-    <img src="https://i.ya-webdesign.com/images/spring-logo-png-4.png" height="80" />
-  </a>
  </p>
   
 ### CSPs
