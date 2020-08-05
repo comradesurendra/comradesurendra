@@ -1,8 +1,10 @@
 # Hi there 👋
 
 I am [Surendra](https://www.linkedin.com/in/sudosuperuser/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; with 1+ years of professional working experience. 🎯
-
 I mostly work with JavaScript, NodeJs and React.🚀
+
+
+<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300">
 
 ### Languages , Tools & Frameworks
 <p float="left">
