@@ -29,7 +29,6 @@ I mostly work with JavaScript, NodeJs and React.🚀
    <a href="https://www.python.org/" target="_blank" >
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/768px-Python.svg.png" height="70" />
   </a>
-   </a>
  </p>
   
 ### CSPs
