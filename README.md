@@ -14,6 +14,12 @@ I mostly work with JavaScript, NodeJs and React.🚀
   <a href="https://reactjs.org" target="_blank" >
     <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/React.gif"  height="90" />
   </a>
+    <a href="https://nextjs.org/" target="_blank">
+      <img src="https://miro.medium.com/max/650/0*UDc8KYYpxxn2ynWe.jpg" height="70" />
+   </a>
+   <a href="https://tailwindcss.com/" target="_blank">
+      <img src="https://fashinnovation.nyc/wp-content/uploads/2020/06/Tailwind-App-brand-logo-1.jpg" height="70" />
+   </a>
   <a href="https://nodejs.org/" target="_blank" >
     <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/node.gif"  height="90" />
   </a>
@@ -24,17 +30,12 @@ I mostly work with JavaScript, NodeJs and React.🚀
     <img src="https://cdn-images-1.medium.com/max/2000/1*9HanDsRU11ZMsgDGJwN96w.png"  height="70" /> 
   </a>
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
-    <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/html.png" height="80" />
+    <img src="https://media.tenor.com/images/b05a25cd76991f2857e1eab1511804a3/tenor.gif" height="80" />
   </a>
    <a href="https://www.python.org/" target="_blank" >
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/768px-Python.svg.png" height="70" />
   </a>
-   <a href="https://nextjs.org/" target="_blank">
-      <img src="https://miro.medium.com/max/650/0*UDc8KYYpxxn2ynWe.jpg" height="70" />
-   </a>
-   <a href="https://tailwindcss.com/" target="_blank">
-      <img src="https://fashinnovation.nyc/wp-content/uploads/2020/06/Tailwind-App-brand-logo-1.jpg" height="70" />
-   </a>
+  
  </p>
   
 ### CSPs
