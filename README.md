@@ -32,12 +32,15 @@ I mostly work with JavaScript, NodeJs and React.🚀
    <a href="https://nextjs.org/" target="_blank">
       <img src="https://miro.medium.com/max/650/0*UDc8KYYpxxn2ynWe.jpg" height="70" />
    </a>
+   <a href="https://tailwindcss.com/" target="_blank">
+      <img src="https://fashinnovation.nyc/wp-content/uploads/2020/06/Tailwind-App-brand-logo-1.jpg" height="70" />
+   </a>
  </p>
   
 ### CSPs
   
  <p float="left">
-  <a href="https://bit.ly/2W7a91W" target="_blank" >
+  <a href="https://www.digitalocean.com/" target="_blank" >
     <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/do.gif"  height="75" />
   </a> 
   <a href="https://aws.amazon.com/" target="_blank" >
