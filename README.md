@@ -33,7 +33,7 @@ I mostly work with JavaScript, NodeJs and React.🚀
     <img src="https://media.tenor.com/images/b05a25cd76991f2857e1eab1511804a3/tenor.gif" height="80" />
   </a>
    <a href="https://www.python.org/" target="_blank" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/768px-Python.svg.png" height="70" />
+    <img src="https://user-images.githubusercontent.com/41782385/59523230-55488280-8f03-11e9-9abe-e8e0f3d9a245.gif" height="70" />
   </a>
   
  </p>
