@@ -2,8 +2,11 @@
 
 I am [Surendra](https://www.linkedin.com/in/sudosuperuser/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; with 1+ years of professional working experience. 🎯
 I mostly work with JavaScript, NodeJs and React.🚀
+<p>
+   <img src="https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg" width="300">
+<img src="https://stormotion.io/blog/content/images/2018/12/developer.gif" width="300">
+</p>
 
-<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300">
 
 ### Languages , Tools & Frameworks
 <p float="left">
@@ -26,7 +29,7 @@ I mostly work with JavaScript, NodeJs and React.🚀
       <img src="https://miro.medium.com/max/650/0*UDc8KYYpxxn2ynWe.jpg" height="70" />
    </a>
   <a href="https://nodejs.org/" target="_blank" >
-    <img src="https://qph.fs.quoracdn.net/main-qimg-d999745eca608e662e9acd52f42e54b3"  height="90" />
+    <img src="https://qph.fs.quoracdn.net/main-qimg-d999745eca608e662e9acd52f42e54b3"  height="110" />
   </a>
   <a href="https://getbootstrap.com/" target="_blank" >
     <img src="https://cdn-images-1.medium.com/max/2000/1*9HanDsRU11ZMsgDGJwN96w.png"  height="70" /> 
