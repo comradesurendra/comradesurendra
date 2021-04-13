@@ -57,10 +57,10 @@ I mostly work with JavaScript, NodeJs and React.🚀
   
  <p float="left">
   <a href="https://www.mysql.com/" target="_blank" >
-    <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/mysql.gif" height="65" width="90" />&nbsp;&nbsp;
+    <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" height="65" width="90" />&nbsp;&nbsp;
   </a>
    <a href="https://www.postgresql.org/" target="_blank" >
-    <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/postgresql.gif" height="90" />&nbsp;&nbsp;
+    <img src="https://download.logo.wine/logo/PostgreSQL/PostgreSQL-Logo.wine.png" height="90" />&nbsp;&nbsp;
   </a>
   <a href="https://www.mongodb.com/" target="_blank" >
     <img src="https://doc.octoperf.com/monitoring/create-connection/mongodb/img/mongodb-logo.png" height="70" />
