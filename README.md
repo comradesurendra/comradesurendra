@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am [Surendra](https://www.linkedin.com/in/sudosuperuser/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; with 1+ years of professional working experience. 🎯
+I am [Surendra](https://www.linkedin.com/in/sudosuperuser/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; with 2+ years of professional working experience. 🎯
 I mostly work with JavaScript, NodeJs and React.🚀
 <p>
    <img src="https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg" width="200">
