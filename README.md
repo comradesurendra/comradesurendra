@@ -10,15 +10,15 @@ I mostly work with JavaScript, NodeJs and React.🚀
 
 ### Languages , Tools & Frameworks
 <p float="left">
-   <a href="https://golang.org/" target="_blank" >
+<!--    <a href="https://golang.org/" target="_blank" >
     <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/golang.gif"  height="90" />
-  </a>
+  </a> -->
   <a href="https://reactjs.org" target="_blank" >
     <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/React.gif"  height="90" />
   </a>
-   <a href="https://www.docker.com/" target="_blank" >
+<!--    <a href="https://www.docker.com/" target="_blank" >
     <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/docker.gif"  height="80" /> 
-  </a>
+  </a> -->
    <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
     <img src="https://media.tenor.com/images/b05a25cd76991f2857e1eab1511804a3/tenor.gif" height="80" />
   </a>
@@ -34,10 +34,7 @@ I mostly work with JavaScript, NodeJs and React.🚀
   <a href="https://getbootstrap.com/" target="_blank" >
     <img src="https://cdn-images-1.medium.com/max/2000/1*9HanDsRU11ZMsgDGJwN96w.png"  height="70" /> 
   </a>
-   <a href="https://tailwindcss.com/" target="_blank">
-      <img src="https://fashinnovation.nyc/wp-content/uploads/2020/06/Tailwind-App-brand-logo-1.jpg" height="70" />
-   </a>
- </p>
+ </p> 
   
 ### CSPs
   
@@ -45,9 +42,9 @@ I mostly work with JavaScript, NodeJs and React.🚀
    <a href="https://firebase.google.com/" target="_blank" >
     <img src="https://cdn.dribbble.com/users/6295/screenshots/6509850/f.gif"  height="75" />
   </a> 
-  <a href="https://www.digitalocean.com/" target="_blank" >
+<!--   <a href="https://www.digitalocean.com/" target="_blank" >
     <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/do.gif"  height="75" />
-  </a> 
+  </a>  -->
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/aws.gif"  height="75" />
   </a>
@@ -59,9 +56,9 @@ I mostly work with JavaScript, NodeJs and React.🚀
   <a href="https://www.mysql.com/" target="_blank" >
     <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" height="65" width="90" />&nbsp;&nbsp;
   </a>
-   <a href="https://www.postgresql.org/" target="_blank" >
+<!--    <a href="https://www.postgresql.org/" target="_blank" >
     <img src="https://download.logo.wine/logo/PostgreSQL/PostgreSQL-Logo.wine.png" height="90" />&nbsp;&nbsp;
-  </a>
+  </a> -->
   <a href="https://www.mongodb.com/" target="_blank" >
     <img src="https://doc.octoperf.com/monitoring/create-connection/mongodb/img/mongodb-logo.png" height="70" />
   </a>
