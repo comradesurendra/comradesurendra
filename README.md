@@ -1,17 +1,19 @@
 # Hi there 👋
 
-I am [Surendra](https://www.linkedin.com/in/sudosuperuser/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; with 2+ years of professional working experience. 🎯
-I mostly work with JavaScript, NodeJs and React.🚀
-<p>
-   <img src="https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg" width="200">
-<img src="https://stormotion.io/blog/content/images/2018/12/developer.gif" width="500">
-</p>
+I am [Surendra](https://www.linkedin.com/in/sudosuperuser/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; with 3+ years of professional working experience. 🎯
+I mostly work with Go,gRPC,JavaScript, NodeJs and React.🚀
 
 
 ### Languages , Tools & Frameworks
 <p float="left">
    <a href="https://golang.org/" target="_blank" >
     <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/golang.gif"  height="90" />
+  </a>
+   <a href="https://grpc.io/" target="_blank" >
+    <img src="https://grpc.io/img/logos/grpc-icon-color.png"  height="90" />
+  </a>
+   <a href="https://developers.google.com/protocol-buffers/" target="_blank" >
+    <img src="https://gisdatascience.com/wp-content/uploads/2018/06/Google-protocol-buffer_2.png"  height="90" />
   </a>
   <a href="https://reactjs.org" target="_blank" >
     <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/React.gif"  height="90" />
@@ -33,6 +35,9 @@ I mostly work with JavaScript, NodeJs and React.🚀
   </a>
   <a href="https://getbootstrap.com/" target="_blank" >
     <img src="https://cdn-images-1.medium.com/max/2000/1*9HanDsRU11ZMsgDGJwN96w.png"  height="70" /> 
+  </a>
+  <a href="https://kafka.apache.org/" target="_blank" >
+    <img src="https://kafka.apache.org/logos/kafka_logo--simple.png"  height="90" />
   </a>
  </p> 
   
