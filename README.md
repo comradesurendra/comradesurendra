@@ -69,13 +69,6 @@ I mostly work with Go,gRPC,JavaScript, NodeJs and React.🚀
   </a>
 </p>
 
-### Stats
-[![Surendra's github stats](https://github-readme-stats.vercel.app/api?username=comradesurendra&layout=compact&theme=radical)](https://github.com/comradesurendra/github-readme-stats)
-
-<a href="https://github.com/comradesurendra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=comradesurendra&layout=compact&theme=radical" />
-</a>
-
 ### 📫 How to reach me? 
 
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/sudosuperuser/) 
