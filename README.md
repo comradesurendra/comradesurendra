@@ -13,7 +13,7 @@ I mostly work with Go,gRPC,JavaScript, NodeJs and React.🚀
     <img src="https://grpc.io/img/logos/grpc-icon-color.png"  height="90" width="70" />
   </a>
    <a href="https://developers.google.com/protocol-buffers/" target="_blank" >
-    <img src="https://gisdatascience.com/wp-content/uploads/2018/06/Google-protocol-buffer_2.png"  height="90" width="70" />
+    <img src="https://miro.medium.com/v2/resize:fit:960/1*2G7HXILlV5MUIHeNjiYZPA.png"  height="90" width="70" />
   </a>
   <a href="https://reactjs.org" target="_blank" >
     <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/React.gif"  height="90" width="70" />
