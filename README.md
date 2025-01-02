@@ -38,7 +38,7 @@ I mostly work with Go,gRPC,JavaScript, NodeJs and React.🚀
 ### Containers & Technology
 <p float="left">
    <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/docker.gif"  height="60" /> 
+    <img src="https://github.com/comradesurendra/comradesurendra/blob/master/assets/docker.gif"  height="65" width="75" /> 
    </a>&nbsp;&nbsp; 
    <a href="" traget="_blank">
     <img  height="60" src="https://static-00.iconduck.com/assets.00/kubernetes-icon-512x497-lfupbig8.png" alt="kubernetes"/>
