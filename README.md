@@ -43,11 +43,17 @@ I mostly work with Go,gRPC,JavaScript, NodeJs and React.🚀
    <a href="https://kubernetes.io/" traget="_blank">
     <img  height="60" src="https://static-00.iconduck.com/assets.00/kubernetes-icon-512x497-lfupbig8.png" alt="kubernetes"/>
    </a>&nbsp;&nbsp;
+      <a href="https://nginx.org/" target="_blank" >
+    <img src="https://static-00.iconduck.com/assets.00/nginx-icon-444x512-0meva297.png" alt="nginx" height="65" />
+   </a>&nbsp;&nbsp;
+   <a href="https://istio.io/" target="_blank" >
+    <img src="https://static-00.iconduck.com/assets.00/istio-logo-icon-342x512-gh5boo0w.png" alt="istio" height="65" />
+   </a>&nbsp;&nbsp;
+   <a href="https://redis.io/" target="_blank" >
+    <img src="https://static-00.iconduck.com/assets.00/redis-icon-512x439-zu7nvjyh.png" height="60" />
+  </a>&nbsp;&nbsp;
    <a href="https://github.com/" traget="_blank">
       <img src="https://static-00.iconduck.com/assets.00/github-icon-512x500-rrqm7apv.png" alt="git"  height="60" />
-   </a>&nbsp;&nbsp;
-   <a href="https://nginx.org/" target="_blank" >
-    <img src="https://static-00.iconduck.com/assets.00/nginx-icon-444x512-0meva297.png" alt="nginx" height="65" />
    </a>&nbsp;&nbsp;
    <a href="https://developers.google.com/protocol-buffers/" target="_blank" >
     <img src="https://miro.medium.com/v2/resize:fit:960/1*2G7HXILlV5MUIHeNjiYZPA.png" alt="protocol-buffers" height="70" />
@@ -84,9 +90,6 @@ I mostly work with Go,gRPC,JavaScript, NodeJs and React.🚀
 ### Databases
   
  <p float="left">
-    <a href="https://redis.io/" target="_blank" >
-    <img src="https://static-00.iconduck.com/assets.00/redis-icon-512x439-zu7nvjyh.png" height="65" />
-    </a>&nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank" >
     <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" height="65" />&nbsp;&nbsp;
   </a>&nbsp;&nbsp;
