@@ -1,6 +1,9 @@
-# Hi there 👋
+# [Hello, I'm Surendra Kumar](https://www.linkedin.com/in/sudosuperuser/) 👋 
 
-I am [Surendra](https://www.linkedin.com/in/sudosuperuser/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; with 5+ years of professional working experience. 🎯
+🚀 Software Engineer | 🖥️ Tech Enthusiast | 🌍 Lifelong Learner
+
+### About Me  
+Passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; with 5+ years of professional working experience. 🎯
 I mostly work with Go,gRPC,JavaScript, NodeJs and React.🚀
 
 #
