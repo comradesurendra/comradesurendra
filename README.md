@@ -24,7 +24,7 @@ I mostly work with Go,gRPC,JavaScript, NodeJs and React.🚀
    </a>&nbsp;&nbsp;
   <a href="https://nodejs.org/" target="_blank" >
     <img src="https://static-00.iconduck.com/assets.00/node-js-icon-512x314-xwmxlccc.png"  height="60"  />
-  </a>
+  </a>&nbsp;&nbsp;
    <a href="https://www.python.org/" target="_blank" >
     <img src="https://user-images.githubusercontent.com/41782385/59523230-55488280-8f03-11e9-9abe-e8e0f3d9a245.gif" height="60" />
    </a>&nbsp;&nbsp;
