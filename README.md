@@ -49,14 +49,14 @@ Senior Software Engineer | Backend & Full-Stack Development Expert | Kubernetes 
    <a href="https://istio.io/" target="_blank" >
     <img src="https://static-00.iconduck.com/assets.00/istio-logo-icon-342x512-gh5boo0w.png" alt="istio" height="65" />
    </a>&nbsp;&nbsp;
-   <a href="https://redis.io/" target="_blank" >
-    <img src="https://static-00.iconduck.com/assets.00/redis-icon-512x439-zu7nvjyh.png" height="60" />
-  </a>&nbsp;&nbsp;
    <a href="https://github.com/" traget="_blank">
       <img src="https://static-00.iconduck.com/assets.00/github-icon-512x500-rrqm7apv.png" alt="git"  height="60" />
    </a>&nbsp;&nbsp;
    <a href="https://developers.google.com/protocol-buffers/" target="_blank" >
     <img src="https://miro.medium.com/v2/resize:fit:960/1*2G7HXILlV5MUIHeNjiYZPA.png" alt="protocol-buffers" height="70" />
+   </a>&nbsp;&nbsp;
+   <a href="https://nifi.apache.org/" target="_blank" >
+    <img src="https://nifi.apache.org/images/apache-nifi-logo.svg" alt="protocol-buffers" height="70" />
    </a>
 </p>
 
@@ -95,6 +95,9 @@ Senior Software Engineer | Backend & Full-Stack Development Expert | Kubernetes 
   </a>&nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" >
     <img src="https://doc.octoperf.com/monitoring/create-connection/mongodb/img/mongodb-logo.png" height="65" />
+  </a>&nbsp;&nbsp;
+       <a href="https://redis.io/" target="_blank" >
+    <img src="https://static-00.iconduck.com/assets.00/redis-icon-512x439-zu7nvjyh.png" height="60" />
   </a>
 </p>
 
