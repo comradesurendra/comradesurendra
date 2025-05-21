@@ -54,19 +54,19 @@
       <img src="https://static-00.iconduck.com/assets.00/github-icon-512x500-rrqm7apv.png" alt="git"  height="60" />
    </a>&nbsp;&nbsp;
    <a href="https://https://www.jenkins.io/" traget="_blank">
-      <img src="https://static-00.iconduck.com/assets.00/jenkins-icon-313x512-1xkxyl8j.png" alt="git"  height="70" />
+      <img src="https://static-00.iconduck.com/assets.00/jenkins-icon-313x512-1xkxyl8j.png" alt="git"  height="60" />
    </a>&nbsp;&nbsp;
    <a href="https://developers.google.com/protocol-buffers/" target="_blank" >
-    <img src="https://miro.medium.com/v2/resize:fit:960/1*2G7HXILlV5MUIHeNjiYZPA.png" alt="protocol-buffers" height="70" />
+    <img src="https://miro.medium.com/v2/resize:fit:960/1*2G7HXILlV5MUIHeNjiYZPA.png" alt="protocol-buffers" height="60" />
    </a>&nbsp;&nbsp;
    <a href="https://nifi.apache.org/" target="_blank" >
-    <img src="https://nifi.apache.org/images/apache-nifi-logo.svg" alt="protocol-buffers" height="70" />
+    <img src="https://nifi.apache.org/images/apache-nifi-logo.svg" alt="protocol-buffers" height="60" />
    </a>&nbsp;&nbsp;
    <a href="https://www.elastic.co/kibana/" target="_blank" >
-    <img src="https://static-00.iconduck.com/assets.00/kibana-icon-384x512-4hls9rgp.png" alt="protocol-buffers" height="70" />
+    <img src="https://static-00.iconduck.com/assets.00/kibana-icon-384x512-4hls9rgp.png" alt="protocol-buffers" height="60" />
    </a>&nbsp;&nbsp;
    <a href="https://www.elastic.co/logstash/" target="_blank" >
-    <img src="https://static-00.iconduck.com/assets.00/logstash-icon-428x512-mtvs62jv.png" alt="protocol-buffers" height="70" />
+    <img src="https://static-00.iconduck.com/assets.00/logstash-icon-428x512-mtvs62jv.png" alt="protocol-buffers" height="60" />
    </a>
 </p>
 
