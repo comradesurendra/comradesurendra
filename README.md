@@ -61,6 +61,12 @@
    </a>&nbsp;&nbsp;
    <a href="https://nifi.apache.org/" target="_blank" >
     <img src="https://nifi.apache.org/images/apache-nifi-logo.svg" alt="protocol-buffers" height="70" />
+   </a>&nbsp;&nbsp;
+   <a href="https://www.elastic.co/kibana/" target="_blank" >
+    <img src="https://static-00.iconduck.com/assets.00/kibana-icon-384x512-4hls9rgp.png" alt="protocol-buffers" height="70" />
+   </a>&nbsp;&nbsp;
+   <a href="https://www.elastic.co/logstash/" target="_blank" >
+    <img src="https://static-00.iconduck.com/assets.00/logstash-icon-428x512-mtvs62jv.png" alt="protocol-buffers" height="70" />
    </a>
 </p>
 
@@ -102,6 +108,10 @@
   </a>&nbsp;&nbsp;
        <a href="https://redis.io/" target="_blank" >
     <img src="https://static-00.iconduck.com/assets.00/redis-icon-512x439-zu7nvjyh.png" height="60" />
+  </a>&nbsp;&nbsp;
+  </a>
+       <a href="https://www.elastic.co/" target="_blank" >
+    <img src="https://static-00.iconduck.com/assets.00/elasticsearch-icon-460x512-qo0buxso.png" height="60" />
   </a>
 </p>
 
