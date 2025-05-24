@@ -61,7 +61,7 @@
    </a>&nbsp;&nbsp;
    <a href="https://www.elastic.co/logstash/" target="_blank" >
     <img src="https://static-00.iconduck.com/assets.00/logstash-icon-428x512-mtvs62jv.png" alt="protocol-buffers" height="60" />
-   </a>>&nbsp;&nbsp;
+   </a>&nbsp;&nbsp;
    <a href="https://www.cursor.com/" target="_blank" >
     <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.46.0/files/light/cursor.png" alt="protocol-buffers" height="60" />
    </a>&nbsp;&nbsp;
