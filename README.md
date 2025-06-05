@@ -112,9 +112,11 @@
        <a href="https://redis.io/" target="_blank" >
     <img src="https://static-00.iconduck.com/assets.00/redis-icon-512x439-zu7nvjyh.png" height="60" />
   </a>&nbsp;&nbsp;
-  </a>
        <a href="https://www.elastic.co/" target="_blank" >
     <img src="https://static-00.iconduck.com/assets.00/elasticsearch-icon-460x512-qo0buxso.png" height="60" />
+  </a>&nbsp;&nbsp;
+       <a href="https://www.dragonflydb.io/" target="_blank" >
+    <img src="https://avatars.githubusercontent.com/u/104819355?s=280&v=4" height="60" />
   </a>
 </p>
 
